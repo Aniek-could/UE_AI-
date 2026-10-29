@@ -18,3 +18,23 @@ AI 只在服务器决策；客户端表现同步；死亡、复活、目标丢�
 
 ## 第 7～8 周：测试与演示
 录像、README、架构图、状态转换图、性能数据，然后才开始大范围阅读开源项目。
+
+
+# 官方学习地址
+# 先按这些顺序阅读：
+
+1. 虚幻引擎 AI 总览
+2. Gameplay Framework
+3. AI Perception 感知系统
+4. Navigation 导航系统
+5. StateTree
+6. Behavior Tree
+7. Environment Query System / EQS
+8. 网络同步总览
+
+# 你现有项目的学习地址
+# 你的 Online-game 已经是 UE5.6，而且里面已经有一套 EPIC 示例 AI，非常适合作为第一份源码教材：
+- [ShooterAIController.cpp](E:/Game(UE\)/Online-game/Source/Local_AdventureGame/Variant_Shooter/AI/ShooterAIController.cpp)
+- [ShooterNPC.cpp](E:/Game(UE\)/Online-game/Source/Local_AdventureGame/Variant_Shooter/AI/ShooterNPC.cpp)
+- [ShooterStateTreeUtility.cpp](E:/Game(UE\)/Online-game/Source/Local_AdventureGame/Variant_Shooter/AI/ShooterStateTreeUtility.cpp)
+- [EnvQueryContext_Target.cpp](E:/Game(UE\)/Online-game/Source/Local_AdventureGame/Variant_Shooter/AI/EnvQueryContext_Target.cpp)
